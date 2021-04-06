@@ -1,0 +1,6 @@
+framework module Pods_GoSellPayment {
+  umbrella header "Pods-GoSellPayment-umbrella.h"
+
+  export *
+  module * { export * }
+}
